@@ -1,1 +1,1 @@
-# Sales-Forecasting-for-Retail-Chains
+# Sales Forecasting for Retail Chains
